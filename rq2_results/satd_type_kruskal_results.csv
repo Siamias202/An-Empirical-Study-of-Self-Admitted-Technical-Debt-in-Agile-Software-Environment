@@ -1,0 +1,7 @@
+variable,groups,group_count,kruskal_h,p_value,p_holm,significant_holm
+scope_change_count,documentation_debt | structural_debt | test_debt,3,6.508640546177536,0.03860705400017881,0.18353857788477482,False
+estimation_change_count,documentation_debt | structural_debt | test_debt,3,4.71088901611909,0.09485133497966246,0.28455400493898736,False
+ownership_change_count,documentation_debt | structural_debt | test_debt,3,0.376349609681974,0.8284698740296846,0.8284698740296846,False
+status_transition_count,documentation_debt | structural_debt | test_debt,3,6.86596667492615,0.03229046358274904,0.18353857788477482,False
+rework_intensity,documentation_debt | structural_debt | test_debt,3,4.364201279696071,0.11280432033064607,0.28455400493898736,False
+lifecycle_days,documentation_debt | structural_debt | test_debt,3,6.974179738214161,0.0305897629807958,0.18353857788477482,False

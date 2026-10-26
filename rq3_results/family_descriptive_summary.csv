@@ -1,0 +1,9 @@
+family,group,n,mean,median,q1,q3
+scope_instability_count,Non-SATD,7379,0.017482043637349235,0.0,0.0,0.0
+scope_instability_count,SATD,2128,0.013157894736842105,0.0,0.0,0.0
+estimation_instability_count,Non-SATD,7379,0.0227673126439897,0.0,0.0,0.0
+estimation_instability_count,SATD,2128,0.01738721804511278,0.0,0.0,0.0
+workflow_instability_count,Non-SATD,7379,0.20734516872204906,0.0,0.0,0.0
+workflow_instability_count,SATD,2128,0.13439849624060152,0.0,0.0,0.0
+ownership_instability_count,Non-SATD,7379,0.0960834801463613,0.0,0.0,0.0
+ownership_instability_count,SATD,2128,0.04981203007518797,0.0,0.0,0.0

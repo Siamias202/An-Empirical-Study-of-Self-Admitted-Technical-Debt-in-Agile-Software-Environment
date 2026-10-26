@@ -1,0 +1,6 @@
+RQ4 answer (XGBoost, out-of-project validation)
+The eventual-SATD prevalence was 22.4%. No checkpoint met the predeclared 20% alert-budget rule.
+T0→T25: ΔPR-AUC=-0.002 (95% project-bootstrap CI -0.007 to +0.003; uncertain).
+T25→T50: ΔPR-AUC=+0.004 (95% project-bootstrap CI -0.001 to +0.008; uncertain).
+T50→T75: ΔPR-AUC=+0.005 (95% project-bootstrap CI +0.000 to +0.011; clear).
+These results estimate prediction of the eventual text-derived SATD label; they do not establish that the warning precedes the first appearance of SATD text.

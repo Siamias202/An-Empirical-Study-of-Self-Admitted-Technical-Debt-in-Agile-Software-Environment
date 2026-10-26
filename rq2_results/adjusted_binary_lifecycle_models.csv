@@ -1,0 +1,12 @@
+outcome,adjusted_OR,ci_lower,ci_upper,p_value,n,project_clusters,p_holm,significant_holm
+ever_description_change_count,2.0033293505315384,1.9067281963936598,2.104824638504758,3.878946434567957e-167,3662,3,1.551578573827183e-166,True
+ever_story_point_change_count,,,,,3662,3,,False
+ever_assignee_change_count,1.2804564858920473,1.1917466839295283,1.3757695610755845,1.4914807581826237e-11,3662,3,4.4744422745478716e-11,True
+ever_team_change_count,,,,,3662,3,,False
+ever_sprint_change_count,,,,,3662,3,,False
+ever_blocked_count,,,,,3662,3,,False
+ever_reopen_count,,,,,3662,3,,False
+ever_review_return_count,1.118288987167516,0.8230431998536422,1.51944668158674,0.4747240540912363,3662,3,0.4747240540912363,False
+ever_testing_return_count,1.2471113343454105,1.2471113343443245,1.2471113343464966,0.0,3662,3,0.0,True
+ever_backward_transition_count,1.26215208286608,1.1629746700707686,1.369787254425968,2.4626157381428613e-08,3662,3,4.9252314762857226e-08,True
+ever_rework_entry_count,,,,,3662,3,,False

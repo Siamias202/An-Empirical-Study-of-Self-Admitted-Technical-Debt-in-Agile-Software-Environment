@@ -1,0 +1,3 @@
+variable,satd_n,non_satd_n,satd_median,non_satd_median,mann_whitney_u,p_value,cliffs_delta,effect_size,p_holm,significant_holm
+unique_stage_count,468,3194,2.0,2.0,818976.5,0.00029542388423059213,0.0957731911864661,Negligible,0.0005908477684611843,True
+rework_intensity,468,3194,0.0,0.0,782526.0,0.004282526102032666,0.04700319509336426,Negligible,0.004282526102032666,True

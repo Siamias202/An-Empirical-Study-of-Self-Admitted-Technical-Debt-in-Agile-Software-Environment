@@ -1,0 +1,15 @@
+RQ2 answer
+
+The observable-history comparison included 3,662 issues (468 SATD) from 3 projects. Overall-duration comparisons included 202,213 issues from 25 projects.
+
+Scope: the largest count difference was scope_change_count (SATD median 1.00, non-SATD median 0.00; Cliff's delta +0.145, negligible; Holm p <0.001), indicating more observed activity for SATD issues.
+Estimation: the largest count difference was estimation_change_count (SATD median 0.00, non-SATD median 0.00; Cliff's delta +0.057, negligible; Holm p 0.025), indicating more observed activity for SATD issues.
+Ownership: the largest count difference was ownership_change_count (SATD median 2.00, non-SATD median 1.00; Cliff's delta +0.125, negligible; Holm p <0.001), indicating more observed activity for SATD issues.
+Workflow: the largest count difference was status_transition_count (SATD median 2.00, non-SATD median 2.00; Cliff's delta +0.057, negligible; Holm p 0.335), indicating more observed activity for SATD issues.
+Temporal evolution: SATD issues had a substantially longer observed lifespan (median 728.2 versus 129.9 days; Cliff's delta +0.246, small; Holm p <0.001).
+No positive stage-duration difference remained significant after Holm correction.
+The largest supported issue-level transition difference was DEVELOPMENT->REVIEW (19.0% of SATD versus 11.5% of non-SATD issues; difference +7.5 percentage points).
+
+Overall, several comparisons may be statistically detectable, but count-effect magnitudes are generally negligible, providing limited evidence of substantially different process trajectories.
+The strongest broad difference is temporal: SATD-labelled issues remain observable much longer and, among issues with recorded effort, tend to accumulate more effort. This is an association, not evidence that longer duration or instability causes SATD.
+Because detailed histories cover only three projects and only issues with at least one recorded transition, the process and transition findings are exploratory and do not support a dataset-wide causal claim.
